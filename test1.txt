@@ -1,1 +1,1 @@
-create test1.txt file
+hi its me mohindar im a frontend developer and im here to explore the tech 
